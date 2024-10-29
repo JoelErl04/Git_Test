@@ -1,3 +1,1 @@
 This is a test project for the GitHub workflow
-
-Finally got it to work
